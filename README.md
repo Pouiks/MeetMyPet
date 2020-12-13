@@ -1,3 +1,26 @@
+GET STARTED WITH THE PROJECT
+
+# Backend is on dev-back BRANCH
+```
+git checkout dev-back
+git pull
+``` 
+
+# Frontend is on dev-front BRANCH
+```
+git checkout dev-front
+git pull
+``` 
+
+
+The whole project is hosted on aws
+You can visit it on : 
+http://ec2-52-86-71-5.compute-1.amazonaws.com:3000/
+(Update: server isn't hosting for the moment, 
+return to service soon
+
+
+
 # Cahier des charges Meet My Pet
 
 
