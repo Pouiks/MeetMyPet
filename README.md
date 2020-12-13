@@ -101,17 +101,6 @@ Possibles problèmes de compatibilité avec IE 9.
 -> Groupe qui se supprimerait automatiquement au bout d'un certain temps d'inactivité
 - Ajout d’un deuxième animal pour un utilisateur. Création d’un table intermédiaire entre user et dog.
 - V100 : Ajout d’un blog
-- Idée de logo :
-
-![image](./images/ideeLogo.png)
-![image](./images/previewLogo.png)
 
 
-## Rôles de la team
 
-- Iris : Lead dev Back
-- Sofiane : Lead dev Front
-- Virgile : Product Owner
-- Théo : SCRUM Master
-
-Les rôles sont susceptibles de changer au besoin.
